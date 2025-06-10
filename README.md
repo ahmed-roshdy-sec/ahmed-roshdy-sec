@@ -19,4 +19,4 @@
 
 ### 📫 Contact  
 - **Email:** ahmedroshdyhamed@gmail.com  
-- **LinkedIn:** [Ahmed Roshdy](https://www.linkedin.com/in/ahmed-roshdy-b471b3366)
+- **LinkedIn:** [linkedin.com/in/ahmed-roshdy-b471b3366](https://www.linkedin.com/in/ahmed-roshdy-b471b3366)
