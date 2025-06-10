@@ -1,28 +1,22 @@
 # Ahmed Roshdy
 
-## أمن المعلومات | الـ Red Teaming | الأمن الهجومي
+## Cybersecurity | Red Teaming | Digital Forensics | Offensive Security
 
 ---
 
-### 🧠 نبذة عني
-شخص ملتزم لديه شغف كبير بالأمن السيبراني.  
-أدرس حاليًا تدريبات عملية متقدمة في مجال الـ Red Teaming.  
-خلفيتي الدراسية في التجارة، لكنني انتقلت إلى مجال الأمن السيبراني بدافع الشغف والتعلم الذاتي منذ عام 2016 وحتى الآن.
+### 🛠️ Skills & Tools  
+- **Programming:** Python, Bash  
+- **Operating Systems:** Linux, Windows
 
 ---
 
-### 🛠️ المهارات والأدوات
-- البرمجة: Python، bash script
-- انظمة تشغيل: Linux,Windows
+### 🎯 Current Goals  
+- Building custom offensive security and vulnerability analysis tools  
+- Advancing skills in Red Team tactics and security programming  
+- Deepening expertise in Digital Forensics and evidence analysis 
 
 ---
 
-### 🎯 أهدافي الحالية
-- بناء أدوات خاصة بمجال الأمن الهجومي  
-- تطوير مهاراتي في تكتيكات الـ Red Team والبرمجة الأمنية  
-- تجهيز ملف عملي احترافي لسوق العمل في مجال السيكيوريتي
-
----
-
-### 📫 التواصل
-- البريد الإلكتروني: ahmedroshdyhamed@gmail.com
+### 📫 Contact  
+- **Email:** ahmedroshdyhamed@gmail.com  
+- **LinkedIn:** [Ahmed Roshdy](https://www.linkedin.com/in/ahmed-roshdy-b471b3366)
